@@ -27,7 +27,7 @@ function renderTasks() {
 
 // Function to add a new task
 function addTask(event) {
-    event.preventDefault(); // Prevent form submission
+    //event.preventDefault(); // Prevent form submission
     const newTaskName = taskNameInput.value.trim();
     const newTaskDescription = taskDescriptionInput.value.trim();
     if (newTaskName && newTaskDescription) {
