@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "name": "git-github_basics",
+  "version": "1.0.0",
+  "main": "question2.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarombustillo/Midterm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarombustillo/Midterm/issues"
+  },
+  "homepage": "https://github.com/jarombustillo/Midterm#readme",
+  "description": ""
 }
